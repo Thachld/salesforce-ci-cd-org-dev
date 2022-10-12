@@ -55,6 +55,12 @@
         <locationX>756</locationX>
         <locationY>528</locationY>
         <inputAssignments>
+            <field>AccountSource</field>
+            <value>
+                <stringValue>Partner</stringValue>
+            </value>
+        </inputAssignments>
+        <inputAssignments>
             <field>Name</field>
             <value>
                 <elementReference>newName</elementReference>
